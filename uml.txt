@@ -1,0 +1,47 @@
+Actor:
+	administrator
+	potential customer
+	customer (has account)
+user case:
+	potential customer:
+		registry
+		view film detail
+		lookup films schedule
+			by film <include>
+				by cinema <extend>
+					by group cinema <extend>
+	customer:
+		login
+		logout
+		view film detail
+		lookup films schedule
+			by film <include>
+				by cinema <extend>
+					by group cinema <extend>
+		booking ticket
+		change profile
+			name
+			email
+			phone
+			history booking
+	administrator:
+		login
+		logout
+		manage film
+		manage group cinema
+			create group
+			edit group
+			delete group
+			add cinema to group
+			remove cinema from group
+		manage cinema
+			create cinema
+			edit cinema
+			delete cinema
+			add film to cinema
+			remove film from cinema
+		manage film
+			create film
+			edit film
+			delete film
+			set date time for film
