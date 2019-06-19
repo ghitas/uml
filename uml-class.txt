@@ -1,0 +1,7 @@
+class:
+	film
+	cinema
+	area
+	user
+	administrator
+	ticket
