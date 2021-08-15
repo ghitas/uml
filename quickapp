@@ -1,15 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T04:21:30.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="aTU8bxk8xMVw_sxX25Dz" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T04:22:31.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="6IXnWBrXbOXEWHJOw2Wa" version="14.9.5" type="github">
   <diagram id="GNU3i8hCxYjH3E0Nk9u4" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="FXCXVvDxTQtwc45PbP1s-115" value="Icons" style="locked=1;" parent="0" />
         <mxCell id="1" value="Network" style="" parent="0" />
         <mxCell id="vzspktJPBp67eGvqCczj-1" value="10.10.0.0/16" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="720" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="vzspktJPBp67eGvqCczj-80" value="Subnet group" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#879196;verticalAlign=top;align=center;fontColor=#879196;dashed=1;spacingTop=3;fillColor=none;imageAspect=1;dropTarget=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="785" width="620" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vzspktJPBp67eGvqCczj-60" value="Multi AZ" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#879196;verticalAlign=top;align=center;fontColor=#879196;dashed=1;spacingTop=3;fillColor=none;imageAspect=1;dropTarget=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="620" height="160" as="geometry" />
@@ -80,13 +77,13 @@
         </mxCell>
         <mxCell id="vzspktJPBp67eGvqCczj-102" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="vzspktJPBp67eGvqCczj-7" target="vzspktJPBp67eGvqCczj-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="770" as="sourcePoint" />
+            <mxPoint x="645" y="780" as="sourcePoint" />
             <mxPoint x="490" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vzspktJPBp67eGvqCczj-103" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="vzspktJPBp67eGvqCczj-6" target="vzspktJPBp67eGvqCczj-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="770" as="sourcePoint" />
+            <mxPoint x="235" y="780" as="sourcePoint" />
             <mxPoint x="490" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
